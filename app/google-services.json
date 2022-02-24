@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373797825514",
+    "firebase_url": "https://paindiary31209351-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "paindiary31209351",
+    "storage_bucket": "paindiary31209351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373797825514:android:d1ccd8f258af64e0b7a093",
+        "android_client_info": {
+          "package_name": "com.example.paindiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373797825514-bbm0qpi5o64vlm39fvpodspopmndg50v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQyWJaDRRVNsCBvDtlQHJKY7F8MxpI5Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373797825514-bbm0qpi5o64vlm39fvpodspopmndg50v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

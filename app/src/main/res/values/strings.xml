@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PainDiary</string>
+    <!-- Login activity -->
+    <string name="hint_username">Enter username (Email)</string>
+    <string name="hint_password">Enter password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_head">Provide an email (username) and password below to log in and access the Pain Diary.</string>
+    <string name="register">Register</string>
+    <string name="register_head">Provide an email (username) and password below to register an account.</string>
+    <string name="complete_registration">Complete Registration</string>
+    <string name="back_to_sign_in">Back to Sign In</string>
+
+    <!-- Main activity -->
+    <string name="home_title">Pain Diary</string>
+    <string name="entry_subheader">Use the form below to describe your symptoms and record your steps taken.</string>
+    <string name="entry_intensity">Pain intensity level:</string>
+    <string name="entry_location">Pain location (select one):</string>
+    <string name="entry_mood">Mood (select one):</string>
+    <string name="entry_steps_goal">Number of steps goal:</string>
+    <string name="entry_steps_actual">Number of steps taken:</string>
+    <string name="entry_date">Date of record:</string>
+    <string name="entry_button_save">Save</string>
+    <string name="entry_button_edit">Edit</string>
+    <string name="record_head">You can browse through all of your stored pain data below.</string>
+    <string name="report_subheader">Scroll to view the Pain Location pie chart, and steps taken donut pie chart.</string>
+    <string name="report_location">Pain Location Pie Chart</string>
+    <string name="report_location_description">Illustrated above is the number of times each pain location has been reported.</string>
+    <string name="report_steps">Steps Taken Donut Chart</string>
+    <string name="report_steps_description">Displaying the number of steps taken today and the amount remaining to reach your specified goal.</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiYWxleHBhbGVnZW9yZ2UiLCJhIjoiY2tuemVlN3ltMDQ4ZTJ1cnkxY3AwMnE1MCJ9.i_ZV9xEfRVDlPSOzhN9EGA</string>
+
+    <!-- Navigation -->
+    <string name="navigation_destinations">Navigation destinations</string>
+    <string name="nav_menu_header">Select from the menu</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_entry">Pain Data Entry</string>
+    <string name="nav_record">Daily Record</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_map">Map</string>
+</resources>
